@@ -1,0 +1,3 @@
+join-message: "&7%player% присоединился к игре"
+quit-message: "&7%player% покинул игру"
+chat-format: "&7%player%&f: %message%"
