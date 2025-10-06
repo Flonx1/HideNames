@@ -1,4 +1,4 @@
-name: HideNames
+name: HideNames-1.21
 version: '${project.version}'
-main: wtf.flonxi.hidenames.HideNames
-api-version: '1.16'
+main: wtf.flonxi.hidenames1.HideNames
+api-version: '1.21'

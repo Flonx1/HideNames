@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>wtf.flonxi</groupId>
-  <artifactId>HideNames</artifactId>
+  <artifactId>HideNames-1.21</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>HideNames</name>
+  <name>HideNames-1.21</name>
 
   <properties>
     <java.version>1.8</java.version>
@@ -62,9 +62,9 @@
 
   <dependencies>
       <dependency>
-          <groupId>com.destroystokyo.paper</groupId>
+          <groupId>io.papermc.paper</groupId>
           <artifactId>paper-api</artifactId>
-          <version>1.16.5-R0.1-SNAPSHOT</version>
+          <version>1.21-R0.1-SNAPSHOT</version>
           <scope>provided</scope>
       </dependency>
   </dependencies>
