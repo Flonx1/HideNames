@@ -1,0 +1,20 @@
+# Язык плагина (auto/eng/ru)
+# Автоматическое определение языка игрока / Plugin language (auto/eng/ru)
+language: auto
+
+# Модули / Modules
+modules:
+  # Скрыть ники в чате / Hide names in chat
+  chat: true
+  # Скрыть ники в сообщениях о смерти / Hide names in death messages
+  death: true
+  # Скрыть ники в табе / Hide names in tab
+  tab: true
+  # Скрыть ники при входе/выходе / Hide names in join/quit messages
+  join-quit: true
+  # Скрыть ники над головой / Hide nametags above head
+  nametag: true
+  # Скрыть имена в автодополнении / Hide names in tab complete
+  tabcomplete: true
+  # Скрыть display name / Hide display name
+  displayname: true
